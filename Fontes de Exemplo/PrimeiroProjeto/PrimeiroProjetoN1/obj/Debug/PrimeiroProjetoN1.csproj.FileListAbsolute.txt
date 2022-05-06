@@ -1,0 +1,10 @@
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\bin\Debug\PrimeiroProjetoN1.exe.config
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\bin\Debug\PrimeiroProjetoN1.exe
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\bin\Debug\PrimeiroProjetoN1.pdb
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\obj\Debug\PrimeiroProjetoN1.csproj.AssemblyReference.cache
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\obj\Debug\PrimeiroProjetoN1.Form1.resources
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\obj\Debug\PrimeiroProjetoN1.Properties.Resources.resources
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\obj\Debug\PrimeiroProjetoN1.csproj.GenerateResource.cache
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\obj\Debug\PrimeiroProjetoN1.csproj.CoreCompileInputs.cache
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\obj\Debug\PrimeiroProjetoN1.exe
+C:\Users\Denilce\Desktop\PrimeiroProjetoN1\PrimeiroProjetoN1\obj\Debug\PrimeiroProjetoN1.pdb

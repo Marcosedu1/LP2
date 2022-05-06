@@ -1,0 +1,11 @@
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\obj\Debug\Segundo Projeto.csproj.AssemblyReference.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\obj\Debug\Segundo Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\obj\Debug\Segundo_Projeto.Form1.resources
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\obj\Debug\Segundo_Projeto.Properties.Resources.resources
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\obj\Debug\Segundo Projeto.csproj.GenerateResource.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\obj\Debug\Segundo Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\bin\Debug\Segundo Projeto.exe.config
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\bin\Debug\Segundo Projeto.exe
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\bin\Debug\Segundo Projeto.pdb
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\obj\Debug\Segundo Projeto.exe
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Segundo Projeto\Segundo Projeto\obj\Debug\Segundo Projeto.pdb

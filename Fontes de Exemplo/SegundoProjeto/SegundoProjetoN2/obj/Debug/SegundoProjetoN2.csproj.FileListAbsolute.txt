@@ -1,0 +1,20 @@
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\bin\Debug\SegundoProjetoN2.exe.config
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\bin\Debug\SegundoProjetoN2.exe
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\bin\Debug\SegundoProjetoN2.pdb
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.csproj.AssemblyReference.cache
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.Form1.resources
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.Properties.Resources.resources
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.csproj.GenerateResource.cache
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.csproj.CoreCompileInputs.cache
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.exe
+C:\Users\Denilce\Desktop\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.pdb
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.csproj.AssemblyReference.cache
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.Form1.resources
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.Properties.Resources.resources
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.csproj.GenerateResource.cache
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.csproj.CoreCompileInputs.cache
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.exe
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\obj\Debug\SegundoProjetoN2.pdb
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\bin\Debug\SegundoProjetoN2.exe.config
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\bin\Debug\SegundoProjetoN2.exe
+C:\Users\Denilce\Desktop\PROJETOS LP2\SegundoProjetoN2\SegundoProjetoN2\bin\Debug\SegundoProjetoN2.pdb

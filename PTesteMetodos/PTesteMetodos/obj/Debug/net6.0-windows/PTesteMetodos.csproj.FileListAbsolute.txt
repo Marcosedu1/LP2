@@ -1,0 +1,44 @@
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.exe
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.deps.json
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.runtimeconfig.json
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.dll
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.pdb
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.AssemblyReference.cache
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmPrincipal.resources
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.GenerateResource.cache
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfoInputs.cache
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfo.cs
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.dll
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\refint\PTesteMetodos.dll
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.pdb
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.genruntimeconfig.cache
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\ref\PTesteMetodos.dll
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio2.resources
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio3.resources
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio4.resources
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio5.resources
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.Properties.Resources.resources
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.exe
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.deps.json
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.runtimeconfig.json
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.dll
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\ref\PTesteMetodos.dll
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\bin\Debug\net6.0-windows\PTesteMetodos.pdb
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.AssemblyReference.cache
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmPrincipal.resources
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio2.resources
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio3.resources
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio4.resources
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.frmExercicio5.resources
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.Properties.Resources.resources
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.GenerateResource.cache
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfoInputs.cache
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.AssemblyInfo.cs
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.dll
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\ref\PTesteMetodos.dll
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.pdb
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\PTesteMetodos\PTesteMetodos\obj\Debug\net6.0-windows\PTesteMetodos.genruntimeconfig.cache

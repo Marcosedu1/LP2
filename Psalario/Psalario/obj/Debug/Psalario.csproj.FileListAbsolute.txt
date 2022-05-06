@@ -1,0 +1,31 @@
+c:\users\aluno.local\documents\visual studio 2013\Projects\Psalario\Psalario\bin\Debug\Psalario.exe.config
+c:\users\aluno.local\documents\visual studio 2013\Projects\Psalario\Psalario\bin\Debug\Psalario.exe
+c:\users\aluno.local\documents\visual studio 2013\Projects\Psalario\Psalario\bin\Debug\Psalario.pdb
+c:\users\aluno.local\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.csprojResolveAssemblyReference.cache
+c:\users\aluno.local\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.Atividade5.resources
+c:\users\aluno.local\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+c:\users\aluno.local\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.Cache
+c:\users\aluno.local\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.exe
+c:\users\aluno.local\documents\visual studio 2013\Projects\Psalario\Psalario\obj\Debug\Psalario.pdb
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\bin\Debug\Psalario.exe.config
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\bin\Debug\Psalario.exe
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\bin\Debug\Psalario.pdb
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.csproj.AssemblyReference.cache
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.Atividade5.resources
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.cache
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.exe
+C:\Users\Marcos Eduardo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.pdb
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\bin\Debug\Psalario.exe.config
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\bin\Debug\Psalario.exe
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\bin\Debug\Psalario.pdb
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.csproj.AssemblyReference.cache
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.Atividade5.resources
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.cache
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.csproj.CoreCompileInputs.cache
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.exe
+C:\Users\marcos.camargo\OneDrive - Fatec Centro Paula Souza\ADS\2° Termo\LP C#\Psalario\Psalario\obj\Debug\Psalario.pdb

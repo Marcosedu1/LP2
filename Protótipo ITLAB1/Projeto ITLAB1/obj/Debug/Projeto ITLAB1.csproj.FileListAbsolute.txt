@@ -1,0 +1,14 @@
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\bin\Debug\Projeto ITLAB1.exe.config
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\bin\Debug\Projeto ITLAB1.exe
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\bin\Debug\Projeto ITLAB1.pdb
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\Projeto ITLAB1.csproj.AssemblyReference.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\Projeto ITLAB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\Projeto_ITLAB1.Properties.Resources.resources
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\Projeto ITLAB1.csproj.GenerateResource.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\Projeto ITLAB1.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\Projeto ITLAB1.exe
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\Projeto ITLAB1.pdb
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\bin\Debug\dje-NE\Projeto ITLAB1.resources.dll
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\Projeto_ITLAB1.Projeto_ITlab.resources
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\Projeto_ITLAB1.Projeto_ITlab.dje-NE.resources
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Projeto ITLAB1\Projeto ITLAB1\obj\Debug\dje-NE\Projeto ITLAB1.resources.dll

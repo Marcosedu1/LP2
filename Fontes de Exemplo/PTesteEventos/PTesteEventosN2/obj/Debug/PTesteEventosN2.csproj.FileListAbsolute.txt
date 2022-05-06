@@ -1,0 +1,10 @@
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\bin\Debug\PTesteEventosN2.exe.config
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\bin\Debug\PTesteEventosN2.exe
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\bin\Debug\PTesteEventosN2.pdb
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\obj\Debug\PTesteEventosN2.csproj.AssemblyReference.cache
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\obj\Debug\PTesteEventosN2.Form1.resources
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\obj\Debug\PTesteEventosN2.Properties.Resources.resources
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\obj\Debug\PTesteEventosN2.csproj.GenerateResource.cache
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\obj\Debug\PTesteEventosN2.csproj.CoreCompileInputs.cache
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\obj\Debug\PTesteEventosN2.exe
+C:\Users\Denilce\Desktop\PROJETOS LP2\PTesteEventosN2\PTesteEventosN2\obj\Debug\PTesteEventosN2.pdb

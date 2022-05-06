@@ -1,0 +1,11 @@
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\bin\Debug\Primeiro Projeto.exe.config
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\bin\Debug\Primeiro Projeto.exe
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\bin\Debug\Primeiro Projeto.pdb
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.AssemblyReference.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro_Projeto.Form1.resources
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro_Projeto.Properties.Resources.resources
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.GenerateResource.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.exe
+C:\Users\Marcos Eduardo\Desktop\ADS\2° Termo\LP C#\Primeiro Projeto\Primeiro Projeto\obj\Debug\Primeiro Projeto.pdb
