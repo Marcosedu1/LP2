@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcos.camargo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP C#\\PAtividade8\\PAtividade8\\PAtividade8.csproj": {}
+    "C:\\Users\\Marcos Eduardo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP2\\PAtividade8\\PAtividade8\\PAtividade8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcos.camargo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP C#\\PAtividade8\\PAtividade8\\PAtividade8.csproj": {
+    "C:\\Users\\Marcos Eduardo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP2\\PAtividade8\\PAtividade8\\PAtividade8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcos.camargo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP C#\\PAtividade8\\PAtividade8\\PAtividade8.csproj",
+        "projectUniqueName": "C:\\Users\\Marcos Eduardo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP2\\PAtividade8\\PAtividade8\\PAtividade8.csproj",
         "projectName": "PAtividade8",
-        "projectPath": "C:\\Users\\marcos.camargo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP C#\\PAtividade8\\PAtividade8\\PAtividade8.csproj",
-        "packagesPath": "C:\\Users\\marcos.camargo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcos.camargo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP C#\\PAtividade8\\PAtividade8\\obj\\",
+        "projectPath": "C:\\Users\\Marcos Eduardo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP2\\PAtividade8\\PAtividade8\\PAtividade8.csproj",
+        "packagesPath": "C:\\Users\\Marcos Eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marcos Eduardo\\OneDrive - Fatec Centro Paula Souza\\ADS\\2° Termo\\LP2\\PAtividade8\\PAtividade8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\marcos.camargo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marcos Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -61,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
