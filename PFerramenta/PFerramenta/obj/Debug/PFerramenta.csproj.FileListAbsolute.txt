@@ -1,0 +1,13 @@
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe.config
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\bin\Debug\PFerramenta.exe
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\bin\Debug\PFerramenta.pdb
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.AssemblyReference.cache
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Form1.resources
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.Properties.Resources.resources
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.GenerateResource.cache
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.csproj.CoreCompileInputs.cache
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.exe
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.pdb
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.frmFerramenta.resources
+C:\Users\marcos.camargo\Desktop\PFerramenta\PFerramenta\obj\Debug\PFerramenta.frmSobre.resources
